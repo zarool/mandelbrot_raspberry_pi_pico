@@ -1,10 +1,10 @@
 # Mandelbrot Set on Raspberry Pi Pico
 
-[Photo](/img/showcase.jpg)
+![Photo](/img/showcase.jpg)
 
 ## Pin and wires layout
 
-[Layout](/img/layout.jpg)
+![Layout](/img/layout.jpg)
 
 ## Description
 
