@@ -98,8 +98,6 @@ def draw_fractal():
             if m == maxn:
                 color = 0
             else:
-                # var bright = map(n, 0, maxiterations, 0, 1);
-                # bright = map(sqrt(bright), 0, 1, 0, 255);
                 bright = map(m, 0, maxn, 0, 1)
                 color = int(map(math.sqrt(bright), 0, 1, 0x0000, 0xffff))
             
